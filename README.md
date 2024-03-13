@@ -1,7 +1,14 @@
-Contact Dashboard
+# Contact Dashboard
 
-register user in localhost:port/register
-login localhost:port/login
+This is a sample SB-Admin panel with registration and login functionalities.
 
-after login you will be redirected to /contact dashboard 
-this is sample sb-admin panel it has lot of error 
+## Usage
+
+- To register a user, navigate to `localhost:port/register`.
+- To login, go to `localhost:port/login`.
+- After successful login, you will be redirected to the `/contact dashboard`.
+
+## Note
+
+This sample SB-Admin panel may contain errors and issues. Use it for demonstration purposes and learning.
+
