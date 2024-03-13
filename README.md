@@ -12,8 +12,8 @@ Before using the application, follow these steps:
 
    ```bash
    git clone https://github.com/Jagadeesh128/panel.git
-cd yourproject
-composer install
+   cd yourproject
+   composer install
 
 ## Database Configuration
 
@@ -38,10 +38,11 @@ DB_PASSWORD=your_database_password
 
 
 ## Usage
-
+- http://localhost:port/ default location will show the symfony landing page try below.
 - To register a user, navigate to `localhost:port/register`.
 - To login, go to `localhost:port/login`.
 - After successful login, you will be redirected to the `/contact dashboard`.
+- You can add, update and delete the conatact details
 
 ## Note
 
